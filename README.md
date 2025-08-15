@@ -5,10 +5,8 @@
 - more projects coming soon to my github maybe i will upload my bash scripts
 ---
 
-# you live you learn
+# things
 - avid vim enthusiast
-
-# things i know
 - vim motions
 - htmx and ts
 - ui/ux in tailwind and svelte
