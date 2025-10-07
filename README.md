@@ -11,4 +11,3 @@
 - htmx and ts
 - ui/ux in tailwind and svelte
 
----
