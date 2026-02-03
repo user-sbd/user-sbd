@@ -9,5 +9,4 @@
 - avid vim enthusiast
 - vim motions
 - htmx and ts
-- ui/ux in tailwind and svelte
 
